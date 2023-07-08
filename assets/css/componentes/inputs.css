@@ -31,8 +31,7 @@
 /*OK*/
 
 .input::placeholder {
-  visibility: hidden;
-  color: #000000;
+  color: transparent;
 }
 /*OK*/
 
